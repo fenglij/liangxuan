@@ -3,7 +3,7 @@
 ========================================================
 前端
 ```
-cd D:\WorkSpace\VScode\ai-liangxuan\frontend
+cd D:\your\path\frontend
 pnpm install
 pnpm dev
 ```
