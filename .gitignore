@@ -19,6 +19,7 @@ frontend/node_modules/
 
 # Github
 .github/
+AGENTS.md
 
 # Other
 *.zip
