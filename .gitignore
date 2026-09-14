@@ -17,5 +17,8 @@ frontend/node_modules/
 !.vscode/extensions.json
 *.log
 
+# Github
+.github/
+
 # Other
 *.zip
