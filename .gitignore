@@ -1,0 +1,21 @@
+# Environment files - never commit
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Backend build output
+backend/target/
+
+# Frontend build output
+frontend/dist/
+frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.log
+
+# Other
+*.zip
