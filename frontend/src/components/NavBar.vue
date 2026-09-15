@@ -32,7 +32,7 @@ const { isAuthenticated, user, openLogin, logout } = useAuth()
               ></path>
             </svg>
           </span>
-          <span class="text-[15px] font-semibold tracking-tight">良选集市</span>
+          <span class="text-[15px] font-semibold tracking-tight">大道消息</span>
         </a>
         <nav class="hidden md:flex items-center gap-8 text-[12px] text-ink-soft">
           <a class="hover:text-ink transition" href="#boards">实时榜单</a>

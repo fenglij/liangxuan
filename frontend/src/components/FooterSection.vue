@@ -9,7 +9,7 @@ const { openAdd } = useCompanies()
     <div class="max-w-[1024px] mx-auto px-6 py-12">
       <div class="grid sm:grid-cols-3 gap-8 pb-8 border-b border-black/[.07]">
         <div>
-          <div class="text-[13px] font-semibold">关于良选集市</div>
+          <div class="text-[13px] font-semibold">关于大道消息</div>
           <p class="text-[12px] text-ink-faint mt-3 leading-relaxed">
             让认真对待员工的公司，被更多人看见与选择。用消费力推动良币驱逐劣币。
           </p>
@@ -35,7 +35,7 @@ const { openAdd } = useCompanies()
       <div
         class="pt-6 flex flex-col sm:flex-row justify-between gap-3 text-[12px] text-ink-faint"
       >
-        <span>© 2026 良选集市 · 数据来自游客共同投票</span>
+        <span>© 2026 大道消息 · 数据来自游客共同投票</span>
         <span>榜单仅代表游客观点 · 排名实时变动</span>
       </div>
     </div>

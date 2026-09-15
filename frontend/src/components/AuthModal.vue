@@ -33,9 +33,9 @@ const {
                     <path d="M14 3c4 1 6 5 6 9" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path>
                   </svg>
                 </div>
-                <p class="text-[11px] font-semibold uppercase tracking-[.22em] text-ink-faint">良选集市 · 会员入口</p>
+                <p class="text-[11px] font-semibold uppercase tracking-[.22em] text-ink-faint">大道消息 · 会员入口</p>
                 <h2 id="auth-title" class="mt-2 text-[30px] font-semibold tracking-[-.04em] text-ink">
-                  {{ mode === 'login' ? '欢迎回来。' : '加入良选。' }}
+                  {{ mode === 'login' ? '欢迎回来。' : '加入大道。' }}
                 </h2>
                 <p class="mt-2 text-[14px] leading-relaxed text-ink-soft">
                   {{ mode === 'login' ? '登录后，推荐值得被看见的公司。' : '创建账号，参与一座城市的选择。' }}
